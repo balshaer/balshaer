@@ -1,15 +1,9 @@
 <p align="center">
   <samp>
-    <a href="https://antfu.me">me</a> .
-    <a href="https://antfu.me/posts">blog</a> .
-    <a href="https://antfu.me/projects">projects</a> .
-    <a href="https://antfu.me/talks">talks</a> .
-    <a href="https://antfu.me/podcasts">podcasts</a> .
-    <a href="https://100.antfu.me">compform</a> .
-    <a href="https://m.webtoo.ls/@antfu">mastodon</a> .
-    <a href="https://twitter.com/antfu7">tweets</a> .
-    <a href="https://chat.antfu.me">discord</a> .
-    <a href="https://instagram.com/antfu7">instagram</a> .
-    <a href="https://github.com/sponsors/antfu">sponsor</a>
+    <a href="https://alshaer.vercel.app/">me</a> .
+    <a href="https://dev.to/baraa">blog</a> .
+    <a href="https://alshaer.vercel.app">projects</a> .
+    <a href="https://www.linkedin.com/in/balshaer/">Linkedin</a> .
+    <a href="https://www.youtube.com/@Codewithbaraa">Youtube</a> .
   </samp>
 </p>
