@@ -1,4 +1,4 @@
-# 🌀 Full-Stack Developer
+# Full-Stack Developer
 
 Hey, I am a full-stack developer.
 
