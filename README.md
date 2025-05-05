@@ -1,9 +1,7 @@
-# Full-Stack Developer
+Hey, I’m a software engineer and tech entrepreneur.
 
-Hey, I am a full-stack developer.
+I build practical, scalable solutions—from automation tools and web platforms to open-source libraries—designed to create real value. I enjoy turning ideas into products and working across business and engineering.
 
-I have worked on a variety of projects, including e-commerce platforms, educational tools, and apps, with a strong focus on creating user-centric, high-performance applications. I enjoy building applications from scratch and collaborating with both startups and established companies.
-
-I am passionate about writing clean, scalable code and delivering high-quality solutions. I also contribute to open-source projects.
+Passionate about clean architecture, high-impact code, and continuous growth. Currently focused on building innovative tools and helping startups grow.
 
 [More about me →](https://alshaer.vercel.app/)
