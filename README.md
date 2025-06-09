@@ -1,7 +1,7 @@
-Hey, I’m a software engineer and tech entrepreneur.
+Hey, I’m Baraa — a full stack software engineer and cybersecurity enthusiast.
 
-I build practical, scalable solutions—from automation tools and web platforms to open-source libraries—designed to create real value. I enjoy turning ideas into products and working across business and engineering.
+I build scalable, secure, and practical solutions—from web platforms and automation tools to open-source libraries and pentesting utilities. I turn ideas into real-world products and thrive at the intersection of business, engineering, and security.
 
-Passionate about clean architecture, high-impact code, and continuous growth. Currently focused on building innovative tools and helping startups grow.
+Passionate about clean architecture, ethical hacking, and continuous self-improvement. Currently focused on building innovative tools, contributing to secure-by-design systems, and helping startups grow with confidence.
 
 [More about me →](https://alshaer.vercel.app/)
